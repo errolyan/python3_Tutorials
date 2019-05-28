@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9aa6ea-3399-48b8-b93f-27e94ef36e5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python3_base/kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python3_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3_tutorials.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/Sorting_Algorithm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/.idea/tf2.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/tf2.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.index" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.meta" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.index" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/tf_linespace.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/tf_linespace.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +27,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datastructure/binary_search.py">
+        <entry file="file://$PROJECT_DIR$/webserver/webserver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="248">
+              <caret line="54" lean-forward="true" selection-end-line="78" selection-end-column="10" />
+              <folding>
+                <element signature="e#166#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webserver/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webserver/thread_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+              <folding>
+                <element signature="e#159#172#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,28 +87,87 @@
         <option value="$PROJECT_DIR$/datastructure/QuickSort.py" />
         <option value="$PROJECT_DIR$/datastructure/shell_sort.py" />
         <option value="$PROJECT_DIR$/datastructure/binary_search.py" />
+        <option value="$PROJECT_DIR$/python3_base/interview.py" />
+        <option value="$PROJECT_DIR$/python3_base/re.py" />
+        <option value="$PROJECT_DIR$/chmod.py" />
+        <option value="$PROJECT_DIR$/python3_base/list_gen.py" />
+        <option value="$PROJECT_DIR$/python3_base/exception.py" />
+        <option value="$PROJECT_DIR$/python3_base/know_about_platform.py" />
+        <option value="$PROJECT_DIR$/python3_base/numpy_learning.py" />
+        <option value="$PROJECT_DIR$/opencv/src/opencv_learning.py" />
+        <option value="$PROJECT_DIR$/BIG_DATA/data_ansys.py" />
+        <option value="$PROJECT_DIR$/python3_base/SYS.py" />
+        <option value="$PROJECT_DIR$/python3_base/random.py" />
+        <option value="$PROJECT_DIR$/python3_base/ditu.py" />
+        <option value="$PROJECT_DIR$/python3_base/string.py" />
+        <option value="$PROJECT_DIR$/opencv/src/puttext.py" />
+        <option value="$PROJECT_DIR$/python3_base/python_class.py" />
+        <option value="$PROJECT_DIR$/python3_base/python_class_method.py" />
+        <option value="$PROJECT_DIR$/python3_base/python_class2.py" />
+        <option value="$PROJECT_DIR$/python3_base/fun_override.py" />
+        <option value="$PROJECT_DIR$/python3_base/class_test.py" />
+        <option value="$PROJECT_DIR$/python3_base/python_gui.py" />
+        <option value="$PROJECT_DIR$/python3_base/python_game.py" />
+        <option value="$PROJECT_DIR$/python3_base/pygame_test.py" />
+        <option value="$PROJECT_DIR$/python3_base/file_system.py" />
+        <option value="$PROJECT_DIR$/python3_base/rw_json.py" />
+        <option value="$PROJECT_DIR$/keras_tutorial.py" />
+        <option value="$PROJECT_DIR$/keras/keras_learning.py" />
+        <option value="$PROJECT_DIR$/keras/keras_set_ckpt.py" />
+        <option value="$PROJECT_DIR$/keras/keras_load_ckpt.py" />
+        <option value="$PROJECT_DIR$/python3_base/read_docx/read_docx.py" />
+        <option value="$PROJECT_DIR$/pandas_learning/pandas_base.py" />
+        <option value="$PROJECT_DIR$/pandas_learning/pandas_show.py" />
+        <option value="$PROJECT_DIR$/webserver.py" />
+        <option value="$PROJECT_DIR$/webserver/server.py" />
+        <option value="$PROJECT_DIR$/webserver/thread_server.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="777" />
-    <option name="y" value="83" />
-    <option name="width" value="812" />
-    <option name="height" value="735" />
+    <option name="x" value="609" />
+    <option name="y" value="50" />
+    <option name="width" value="994" />
+    <option name="height" value="860" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python3_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3_tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python3_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="webserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webserver" />
+      <recent name="$PROJECT_DIR$/keras/dataset" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,8 +181,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.QuickSort">
-    <configuration name="Bubble_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.thread_server">
+    <configuration name="pandas_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/Bubble_Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_learning/pandas_base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Deque" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pandas_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/Deque.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_learning/pandas_show.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insert_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_docx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3_base/read_docx" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/Insert_Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3_base/read_docx/read_docx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webserver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/QuickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webserver/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Selection_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="thread_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datastructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webserver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datastructure/Selection_Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webserver/thread_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,16 +289,17 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.QuickSort" />
-        <item itemvalue="Python.Insert_Sort" />
-        <item itemvalue="Python.Selection_Sort" />
-        <item itemvalue="Python.Bubble_Sort" />
-        <item itemvalue="Python.Deque" />
+        <item itemvalue="Python.thread_server" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.pandas_show" />
+        <item itemvalue="Python.pandas_base" />
+        <item itemvalue="Python.read_docx" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -217,75 +312,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="777" y="83" width="812" height="735" extended-state="0" />
+    <frame x="609" y="50" width="994" height="860" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24956822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23684211" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32419354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32903227" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32885906" />
       <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="SVN Repositories" order="12" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JuliaSciView" order="3" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/Single_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="145" column="13" lean-forward="true" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/Deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/single_cycl_Link_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="163" column="24" selection-start-line="163" selection-start-column="24" selection-end-line="163" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/Sorting_Algorithm.py" />
     <entry file="file://$PROJECT_DIR$/datastructure/Bubble_Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -321,10 +374,309 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/interview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/test" />
     <entry file="file://$PROJECT_DIR$/datastructure/binary_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chmod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/parking/lib/python2.7/os.py" />
+    <entry file="file://$PROJECT_DIR$/python3_base/list_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/know_about_platform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/data/test/12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/data/test/test12.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/data/test/test13.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/data/test/test15.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIG_DATA/data_ansys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/data/test/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/src/img_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/SYS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="731" selection-start-line="731" selection-end-line="731" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/numpy_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/ditu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/src/opencv_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding>
+            <element signature="e#194#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv/src/puttext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#194#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="24" selection-end-line="36" selection-end-column="38" />
+          <folding>
+            <element signature="e#189#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/python_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/python_class2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/fun_override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/python_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#143#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/python_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/pygame_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras_tutorial.py" />
+    <entry file="file://$PROJECT_DIR$/python3_base/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="87" lean-forward="true" selection-start-column="87" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/rw_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/class_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/file_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/python_class_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras/keras_load_ckpt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#192#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras/keras_set_ckpt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="60" />
+          <folding>
+            <element signature="e#237#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_learning/boxplot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3_base/read_docx/read_docx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="44" selection-start-line="47" selection-start-column="2" selection-end-line="50" selection-end-column="46" />
+          <folding>
+            <element signature="e#173#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="133" column="24" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
+          <folding>
+            <element signature="e#163#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/thread_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+          <folding>
+            <element signature="e#159#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/webserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="54" lean-forward="true" selection-end-line="78" selection-end-column="10" />
+          <folding>
+            <element signature="e#166#189#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

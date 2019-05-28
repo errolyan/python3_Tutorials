@@ -1,5 +1,5 @@
+# -*- coding:utf-8 -*-
 #!/usr/bin/python3
-# -*-coding-*-:"utf-8"
 #__Author__="Yan Errol"
 # __Time__="2019.04.08"
 #__Descrbe__="learning tf"
@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 train_x = np.linspace(-1, 1, 100)
 print(train_x)
 train_y = 2 * train_x + np.random.randn(*train_x.shape) * 0.3
-print(*train_x.shape, train_x.shape)
+#print(*train_x.shape, train_x.shape)
 print(np.random.randn(4))
 print(train_y)
 
