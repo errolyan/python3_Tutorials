@@ -2,21 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9aa6ea-3399-48b8-b93f-27e94ef36e5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python3_base/kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python3_tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3_tutorials.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/.idea/tf2.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/tf2.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.index" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.meta" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt-198.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.index" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/checkpoint/checkpoint.cpkt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_tutorials/tf_linespace.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_tutorials/tf_linespace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chmod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copy_of_opencv_image_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/copy_of_opencv_image_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras/ckpt/weights.best.hdf5" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/ckpt/weights.best.hdf5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras/dataset/pima-indians-diabetes.data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/dataset/pima-indians-diabetes.data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras/keras_load_ckpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/keras_load_ckpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras/keras_set_ckpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/keras_set_ckpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/data/test/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/data/test/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/data/test/test12.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test12.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/data/test/test13.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test13.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/data/test/test15.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test15.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/data/test/test16.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test16.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/data/test/test17.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test17.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/number_orc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/number_orc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test12.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test12.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test13.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test13.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test15.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test15.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test16.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test16.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test17.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test17.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/src/data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/src/data_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/src/img_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/src/img_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/number_orc/src/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/src/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/biaozhi.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/biaozhi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/data_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/img2gray.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/img2gray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/img_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/img_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/opencv_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/opencv_learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/puttext.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/puttext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_learning/pandas_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_learning/pandas_base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,35 +48,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapt/wzry.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapt/省市区三级地库/city_area.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webserver/webserver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="54" lean-forward="true" selection-end-line="78" selection-end-column="10" />
-              <folding>
-                <element signature="e#166#189#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver/server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver/thread_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-              <folding>
-                <element signature="e#159#172#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -74,41 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/datastructure/Single_list.py" />
-        <option value="$PROJECT_DIR$/datastructure/single_cycl_Link_list.py" />
-        <option value="$PROJECT_DIR$/datastructure/Stack.py" />
-        <option value="$PROJECT_DIR$/datastructure/queue.py" />
-        <option value="$PROJECT_DIR$/datastructure/Deque.py" />
-        <option value="$PROJECT_DIR$/datastructure/Sorting_Algorithm.py" />
-        <option value="$PROJECT_DIR$/datastructure/Bubble_Sort.py" />
-        <option value="$PROJECT_DIR$/datastructure/Selection_Sort.py" />
-        <option value="$PROJECT_DIR$/datastructure/Insert_Sort.py" />
-        <option value="$PROJECT_DIR$/datastructure/QuickSort.py" />
-        <option value="$PROJECT_DIR$/datastructure/shell_sort.py" />
-        <option value="$PROJECT_DIR$/datastructure/binary_search.py" />
-        <option value="$PROJECT_DIR$/python3_base/interview.py" />
-        <option value="$PROJECT_DIR$/python3_base/re.py" />
-        <option value="$PROJECT_DIR$/chmod.py" />
-        <option value="$PROJECT_DIR$/python3_base/list_gen.py" />
-        <option value="$PROJECT_DIR$/python3_base/exception.py" />
-        <option value="$PROJECT_DIR$/python3_base/know_about_platform.py" />
-        <option value="$PROJECT_DIR$/python3_base/numpy_learning.py" />
-        <option value="$PROJECT_DIR$/opencv/src/opencv_learning.py" />
-        <option value="$PROJECT_DIR$/BIG_DATA/data_ansys.py" />
-        <option value="$PROJECT_DIR$/python3_base/SYS.py" />
-        <option value="$PROJECT_DIR$/python3_base/random.py" />
-        <option value="$PROJECT_DIR$/python3_base/ditu.py" />
-        <option value="$PROJECT_DIR$/python3_base/string.py" />
-        <option value="$PROJECT_DIR$/opencv/src/puttext.py" />
-        <option value="$PROJECT_DIR$/python3_base/python_class.py" />
-        <option value="$PROJECT_DIR$/python3_base/python_class_method.py" />
-        <option value="$PROJECT_DIR$/python3_base/python_class2.py" />
-        <option value="$PROJECT_DIR$/python3_base/fun_override.py" />
-        <option value="$PROJECT_DIR$/python3_base/class_test.py" />
-        <option value="$PROJECT_DIR$/python3_base/python_gui.py" />
-        <option value="$PROJECT_DIR$/python3_base/python_game.py" />
-        <option value="$PROJECT_DIR$/python3_base/pygame_test.py" />
         <option value="$PROJECT_DIR$/python3_base/file_system.py" />
         <option value="$PROJECT_DIR$/python3_base/rw_json.py" />
         <option value="$PROJECT_DIR$/keras_tutorial.py" />
@@ -116,19 +100,58 @@
         <option value="$PROJECT_DIR$/keras/keras_set_ckpt.py" />
         <option value="$PROJECT_DIR$/keras/keras_load_ckpt.py" />
         <option value="$PROJECT_DIR$/python3_base/read_docx/read_docx.py" />
-        <option value="$PROJECT_DIR$/pandas_learning/pandas_base.py" />
         <option value="$PROJECT_DIR$/pandas_learning/pandas_show.py" />
         <option value="$PROJECT_DIR$/webserver.py" />
         <option value="$PROJECT_DIR$/webserver/server.py" />
         <option value="$PROJECT_DIR$/webserver/thread_server.py" />
+        <option value="$PROJECT_DIR$/python3_base/python_gener.py" />
+        <option value="$PROJECT_DIR$/pandas_learning/pandas_base.py" />
+        <option value="$PROJECT_DIR$/pandas_learning/pandas_test.py" />
+        <option value="$PROJECT_DIR$/itchat_img/wx_chat.py" />
+        <option value="$PROJECT_DIR$/webserver/test_http.py" />
+        <option value="$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/pyecharts/charts/basic_charts/bar.py" />
+        <option value="$PROJECT_DIR$/python_theano/threano_learn.py" />
+        <option value="$PROJECT_DIR$/BIG_DATA/data_show.py" />
+        <option value="$PROJECT_DIR$/ftp/ftp_class.py" />
+        <option value="$PROJECT_DIR$/ftp/ftp.py" />
+        <option value="$PROJECT_DIR$/mysql_tutorials/mysql_class.py" />
+        <option value="$PROJECT_DIR$/python_re/re_class.py" />
+        <option value="$PROJECT_DIR$/python_re/str_.py" />
+        <option value="$PROJECT_DIR$/python_io/python_io.py" />
+        <option value="$PROJECT_DIR$/python_io/more_io.py" />
+        <option value="$PROJECT_DIR$/python_io/io_class_case.py" />
+        <option value="$PROJECT_DIR$/python_net/requests_learn.py" />
+        <option value="$PROJECT_DIR$/python_net/taojiezi.py" />
+        <option value="$PROJECT_DIR$/python_flask/flask_demo.py" />
+        <option value="$PROJECT_DIR$/python_algo/maximum_likelihood.py" />
+        <option value="$PROJECT_DIR$/python_algo/Bayesian_Neural_Network.py" />
+        <option value="$PROJECT_DIR$/python_algo/PCA.py" />
+        <option value="$PROJECT_DIR$/wechat_sendmsg.py" />
+        <option value="$PROJECT_DIR$/WeChat/wechat_sendmsg.py" />
+        <option value="$PROJECT_DIR$/python_text/textgener.py" />
+        <option value="$PROJECT_DIR$/copy_of_opencv_image_search.py" />
+        <option value="$PROJECT_DIR$/python_download/download_folder.py" />
+        <option value="$PROJECT_DIR$/python_mysql/ssh_connect_mysql.py" />
+        <option value="$PROJECT_DIR$/python_excel/read_write_excel.py" />
+        <option value="$PROJECT_DIR$/json/read_write_json.py" />
+        <option value="$PROJECT_DIR$/json/json.txt" />
+        <option value="$PROJECT_DIR$/request/request.py" />
+        <option value="$PROJECT_DIR$/zip/zip.py" />
+        <option value="$PROJECT_DIR$/scrapt/wzry.py" />
+        <option value="$PROJECT_DIR$/scrapt/省市区三级地库/city_area.py" />
+        <option value="$PROJECT_DIR$/scrapt/省市区三级地库/city2mysql.py" />
+        <option value="$PROJECT_DIR$/scrapt/省市区乡村五级地库/city_full.py" />
+        <option value="$PROJECT_DIR$/scrapt/内涵段子/nhdz.py" />
+        <option value="$PROJECT_DIR$/scrapt/12306抢票/qp.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="609" />
-    <option name="y" value="50" />
-    <option name="width" value="994" />
-    <option name="height" value="860" />
+    <option name="x" value="354" />
+    <option name="y" value="23" />
+    <option name="width" value="1138" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -138,7 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,25 +168,23 @@
               <item name="python3_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3_tutorials" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python3_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opencv" />
+      <recent name="$PROJECT_DIR$/WeChat" />
       <recent name="$PROJECT_DIR$/webserver" />
       <recent name="$PROJECT_DIR$/keras/dataset" />
     </key>
@@ -181,8 +201,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.thread_server">
-    <configuration name="pandas_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.nhdz">
+    <configuration name="city2mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +210,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/省市区三级地库" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_learning/pandas_base.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/省市区三级地库/city2mysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="city_area" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/省市区三级地库" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_learning/pandas_show.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/省市区三级地库/city_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_docx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="city_full" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3_base/read_docx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/省市区乡村五级地库" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3_base/read_docx/read_docx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/省市区乡村五级地库/city_full.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nhdz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webserver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/内涵段子" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webserver/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/内涵段子/nhdz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="thread_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wzry" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webserver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webserver/thread_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/wzry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.thread_server" />
-        <item itemvalue="Python.server" />
-        <item itemvalue="Python.pandas_show" />
-        <item itemvalue="Python.pandas_base" />
-        <item itemvalue="Python.read_docx" />
+        <item itemvalue="Python.nhdz" />
+        <item itemvalue="Python.city_full" />
+        <item itemvalue="Python.city2mysql" />
+        <item itemvalue="Python.city_area" />
+        <item itemvalue="Python.wzry" />
       </list>
     </recent_temporary>
   </component>
@@ -312,15 +332,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="609" y="50" width="994" height="860" extended-state="0" />
+    <frame x="354" y="23" width="1138" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23684211" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19835466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26754385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,307 +359,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datastructure/Bubble_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/Selection_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="32" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/Insert_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/QuickSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/shell_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/interview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/test" />
-    <entry file="file://$PROJECT_DIR$/datastructure/binary_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chmod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/envs/parking/lib/python2.7/os.py" />
-    <entry file="file://$PROJECT_DIR$/python3_base/list_gen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/exception.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/know_about_platform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/data/test/12.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/data/test/test12.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/data/test/test13.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/data/test/test15.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIG_DATA/data_ansys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/data/test/11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/src/img_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/SYS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="731" selection-start-line="731" selection-end-line="731" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/numpy_learning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/ditu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/src/opencv_learning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-          <folding>
-            <element signature="e#194#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opencv/src/puttext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#194#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="24" selection-end-line="36" selection-end-column="38" />
-          <folding>
-            <element signature="e#189#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/python_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/python_class2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/fun_override.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/python_gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <element signature="e#143#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/python_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/pygame_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keras_tutorial.py" />
-    <entry file="file://$PROJECT_DIR$/python3_base/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="87" lean-forward="true" selection-start-column="87" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/rw_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/class_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/file_system.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3_base/python_class_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keras/keras_load_ckpt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="e#192#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keras/keras_set_ckpt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="60" />
-          <folding>
-            <element signature="e#237#272#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_learning/boxplot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/python3_base/read_docx/read_docx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="44" selection-start-line="47" selection-start-column="2" selection-end-line="50" selection-end-column="46" />
-          <folding>
-            <element signature="e#173#192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,27 +379,349 @@
     <entry file="file://$PROJECT_DIR$/webserver/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webserver/thread_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="675">
+          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/test_http.py" />
+    <entry file="file://$PROJECT_DIR$/itchat_img/wx_chat.py" />
+    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
-            <element signature="e#159#172#0" expanded="true" />
+            <element signature="e#164#183#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/pyecharts/charts/basic_charts/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#173#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ftp/ftp_class.py" />
+    <entry file="file://$PROJECT_DIR$/python3_base/python_gener.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIG_DATA/data_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#41#158#1" />
+            <element signature="e#160#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_ftp/ftp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#23#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_theano/threano_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#175#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_tutorials/mysql_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_re/re_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-835">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_re/str_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#160#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_io/python_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#149#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/python_io/more_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="e#161#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_io/io_class_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_net/requests_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_net/taojiezi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#149#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_flask/flask_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/edward/util/random_variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/PCA.py" />
+    <entry file="file://$PROJECT_DIR$/python_algo/Bayesian_Neural_Network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/maximum_likelihood.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
+          <folding>
+            <element signature="e#149#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_text/textgener.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chmod.py" />
+    <entry file="file://$PROJECT_DIR$/python_download/download_folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding>
+            <element signature="e#311#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_mysql/ssh_connect_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#289#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_opencv/copy_of_opencv_image_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeChat/wechat_sendmsg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webserver/webserver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="54" lean-forward="true" selection-end-line="78" selection-end-column="10" />
+        <state relative-caret-position="216">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding>
             <element signature="e#166#189#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_excel/read_write_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <element signature="e#196#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/read_write_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/json.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="81" selection-start-column="81" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zip/test/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/json.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zip/zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="e#249#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/wzry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/内涵段子/nhdz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/省市区三级地库/json/area.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="84" selection-start-column="84" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/12306抢票/qp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/省市区乡村五级地库/city_full.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/省市区三级地库/city2mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#267#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/省市区三级地库/city_area.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
