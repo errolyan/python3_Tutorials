@@ -3,42 +3,738 @@
   <component name="ChangeListManager">
     <list default="true" id="fb9aa6ea-3399-48b8-b93f-27e94ef36e5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chmod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/copy_of_opencv_image_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/copy_of_opencv_image_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keras/ckpt/weights.best.hdf5" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/ckpt/weights.best.hdf5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keras/dataset/pima-indians-diabetes.data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/dataset/pima-indians-diabetes.data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keras/keras_load_ckpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/keras_load_ckpt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keras/keras_set_ckpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_keras/keras_set_ckpt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/data/test/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/data/test/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/data/test/test12.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test12.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/data/test/test13.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test13.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/data/test/test15.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test15.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/data/test/test16.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test16.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/data/test/test17.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/data/test/test17.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/number_orc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/number_orc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test12.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test12.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test13.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test13.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test15.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test15.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test16.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test16.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/data/test/test17.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/data/test/test17.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/src/data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/src/data_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/src/img_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/src/img_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/number_orc/src/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/number_orc/src/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/src/biaozhi.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/biaozhi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/src/data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/data_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/src/img2gray.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/img2gray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/src/img_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/img_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/src/opencv_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/opencv_learning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv/src/puttext.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_opencv/src/puttext.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas_learning/pandas_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_learning/pandas_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/DynamicStackBaseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/StackBaseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/05-array/Array.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/05-array/algo05_array.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/06-linkedlist/LRUWithArray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/06-linkedlist/LRUWithLinkedList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/06-linkedlist/LRU缓存实现思路.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/06-linkedlist/SingleLinkedList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/06-linkedlist/algo06_linked_list.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/07-linkedlist/_07_linkedlist/SingleLinkedListAlgo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/07-linkedlist/_07_linkedlist/algo07_linkedlist.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/08-stack/algo08_stack/ArrayStack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/08-stack/algo08_stack/LinkedStack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/08-stack/algo08_stack/LinkedStackBrowser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/08-stack/algo08_stack/algo08_stack.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_05_array_tests/Array.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_05_array_tests/algo05_array_tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_06_linkedlist_tests/BaseLinkedListTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_06_linkedlist_tests/LRUWithArray.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_06_linkedlist_tests/LRUWithLinkedList.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_06_linkedlist_tests/SingleLinkedList.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_06_linkedlist_tests/algo06_linkedlist_tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_07_linkedlist_tests/SingleLinkedListAlgo.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/_07_linkedlist_tests/algo07_linkedlist_tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/algo08_stack_tests/ArrayStack.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/algo08_stack_tests/LinkedStack.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/algo08_stack_tests/LinkedStackBrowser.Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/Tests/algo08_stack_tests/algo08_stack_tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/csharp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/csharp/csharp.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/f21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/05_array/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/05_array/array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/05_array/array_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/06_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/06_linkedlist/palindrome-linked-list.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/06_linkedlist/palindrome.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/06_linkedlist/palindrome_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/06_linkedlist/singlelinkedlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/06_linkedlist/singlelinkedlist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/07_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/07_linkedlist/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/07_linkedlist/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/08_stack/SimpleBrowser.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/08_stack/SimpleBrowser_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/08_stack/StackBasedOnArray.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/08_stack/StackBasedOnArray_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/08_stack/StackBasedOnLinkedList.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/08_stack/StackBasedOnLinkedList_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/08_stack/StatckInterface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/09_queue/CircularQueue.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/09_queue/CircularQueue_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/09_queue/QueueBasedOnArray.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/09_queue/QueueBasedOnArray_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/09_queue/QueueBasedOnLinkedList.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/09_queue/QueueBasedOnLinkedList_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/10_recursion/Factorial.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/10_recursion/Factorial_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/10_recursion/Fibonacci.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/10_recursion/Fibonacci_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/10_recursion/RangAll.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/10_recursion/RangAll_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/11_sorts/Sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/11_sorts/Sort_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/12_sorts/MergeSort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/12_sorts/MergeSort_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/12_sorts/QuickSort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/12_sorts/QuickSort_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/14_sorts/CountingSort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/14_sorts/CountingSort_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/15_binarysearch/binarysearch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/15_binarysearch/binarysearch_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/17_skiplist/skiplist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/17_skiplist/skiplist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/20_lru/lru_cache.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/20_lru/lru_cache_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/23_binarytree/binarytree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/23_binarytree/binarytree_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/24_tree/BinarySearchTree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/24_tree/BinarySearchTree_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/24_tree/BinaryTree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/24_tree/BinaryTree_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/24_tree/StackBasedOnArray.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/24_tree/TreeNode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/28_heap/heap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/28_heap/heap_sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/29_priority_queue/heap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/29_priority_queue/heap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/29_priority_queue/priority_queue.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/29_priority_queue/priority_queue_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/29_priority_queue/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/31_graph/graph_search.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/32_string/string_bf.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/32_string/string_bm.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/34_kmp/kmp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/42_dynamic_programming/longest_common_substring.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/45_bitmap/bitmap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/45_bitmap/bitmap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/go/binarysearch2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/05_array/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/05_array/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/05_array/GenericArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/06_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/06_linkedlist/LRUBaseLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/06_linkedlist/LRUBasedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/06_linkedlist/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/07_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/07_linkedlist/LinkedListAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/08_stack/SampleBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/08_stack/StackBasedOnLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/09_queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/09_queue/CircularQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/09_queue/DynamicArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/09_queue/QueueBasedOnLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/11_sorts/InsertionSortAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/11_sorts/Sorts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/11_sorts/SortsAddOn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/12_sorts/KthSmallest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/12_sorts/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/12_sorts/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/13_sorts/CountingSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/17_skiplist/SkipList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/24_tree/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/32_BFRK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/java/36_ac_automata/ACAutoMata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/05_array/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/05_array/Array.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/06_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/06_linkedlist/SinglyLinkedList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/07_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/07_linkedlist/LinkedListAlgo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/08_stack/SampleBrowser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/08_stack/StackBasedOnLinkedList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/09_queue/CircularQueueBasedOnLinkedList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/09_queue/QueueBasedOnLinkedList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/11_sorts/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/12_sorts/KthNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/12_sorts/MergeSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/12_sorts/QuickSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/15_binary/binaryFind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/16_binary/binary-find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/17_skiplist/SkipList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/18_hashmap/HashTable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/28_heapsort/heap-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/35_trie/trie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/36_ac_automata/ac_automata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/36_ac_automata/ac_automata_unicode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/42_dynamic_programming/levenshtein_distance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/43_topological_sorting/dsf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/javascript/45_bitmap/bitmap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/kotlin/05_array/DynamicArray.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/10_recursion/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/11_sorts/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/12_sorts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/12_sorts/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/13_sorts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/13_sorts/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/14_sorts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/14_sorts/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/15_bsearch/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/15_bsearch/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/16_bsearch/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/16_bsearch/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/17_skiplist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/17_skiplist/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/18_hashtable/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/18_hashtable/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/19_hashtable/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/19_hashtable/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/20_hashtable/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/notes/20_hashtable/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/05_array/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/05_array/MyArray.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/05_array/MyArray.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/06_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/06_linkedlist/ListNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/06_linkedlist/ListNode.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/06_linkedlist/SinglyLinkedList.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/06_linkedlist/SinglyLinkedList.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/06_linkedlist/SinglyLinkedListTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/07_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/LinkedStack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/LinkedStack.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/LinkedStackTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/ListNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/ListNode.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/stack_practice/ArrayStack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/stack_practice/ArrayStack.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/stack_practice/BalancedParentheses.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/stack_practice/BalancedParentheses.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/stack_practice/FourOperation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/stack_practice/FourOperation.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/08_stack/stack_practice/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/11_Sort/Sort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/11_Sort/Sort.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/33_bm_match/BM.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/33_bm_match/BM.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/object-c/33_bm_match/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/05_array/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/05_array/array.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/05_array/array_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/06_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/06_linkedlist/SingleLinkedList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/06_linkedlist/SingleLinkedListNode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/06_linkedlist/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/07_linkedlist/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/07_linkedlist/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/08_stack/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/08_stack/Compute.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/08_stack/StackOnLinkedList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/08_stack/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/09_queue/QueueOnLinkedList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/09_queue/Sequential.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/09_queue/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/11_sort/Sort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/12_sort/mergeSort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/12_sort/quicksort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/13_sort/bucketSort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/13_sort/countingSort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/13_sort/radixSort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/15_binary/binary.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/16_binary/binary.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/24_tree/Tree.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/24_tree/TreeNode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/24_tree/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/39_backtracking/queens.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/Stack/Compute.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/buildAutoLoad.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/php/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch05_array/ArrayDemo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch06_linkedlist/SinglyLinkedList.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch07_linkedlist/LinkedListAlgo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch08_stack/BrowserDemo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch08_stack/StackDemo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch09_queue/ArrayQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch09_queue/CircularQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch09_queue/DemoQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch09_queue/DynamicArrayQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch09_queue/LinkedListQueue.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch10_recursive/RecursiveDemo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch11_sorts/Sorts.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch12_sorts/MergeSort.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch12_sorts/QuickSort.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch15_bsearch/BSearch.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch15_bsearch/BSearchRecursive.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch16_bsearch/BSearch.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch17_skip_list/SkipList.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch20_linked_hash_map/LRUCache.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch23_binary_tree/BinaryTree.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch24_binary_search_tree/BinarySearchTree.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch28_heap/Heap.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch29_heap_solutions/FileMerger.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch29_heap_solutions/MiddleNumberKeeper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch29_heap_solutions/TopKItemsKeeper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch31_graph/Graph.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch32_matching/BruteForce.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch32_matching/RabinKarp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch35_tire_tree/TrieTree.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch39_back_tracking/BagWeight.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch39_back_tracking/EightQueens.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch39_back_tracking/NQueens.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch39_back_tracking/Sudoku.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/main/scala/ch43_topology_sort/GraphTopology.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch05_array/ArrayDemoSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch06_linkedlist/NodeTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch06_linkedlist/SinglyLinkedListTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch07_linkedlist/LinkedListAlgoTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch08_stack/BrowserDemoTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch08_stack/StackDemoTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch09_queue/ArrayQueueTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch09_queue/CircularQueueTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch09_queue/DemoQueueTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch09_queue/DynamicArrayQueueTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch09_queue/LinkedListQueueTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch10_recursive/RecursiveDemoTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch11_sorts/SortsTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch12_sorts/MergeSortTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch12_sorts/QuickSortTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch15_bsearch/BSearchRecursiveTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch15_bsearch/BSearchTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch16_bsearch/BSearchTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch17_skip_list/SkipListTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch20_linked_hash_map/LRUCacheTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch23_binary_tree/BinaryTreeTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch24_binary_search_tree/BinarySearchTreeTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch28_heap/HeapTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch29_heap_solutions/FileMergerTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch29_heap_solutions/MiddleNumberKeeperTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch29_heap_solutions/TopKItemsKeeperTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch31_graph/GraphTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch32_matching/BruteForceTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch32_matching/RabinKarpTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch35_tire_tree/TrieTreeTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch39_back_tracking/BagWeightTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch39_back_tracking/EightQueensTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch39_back_tracking/NQueensTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch39_back_tracking/SudokuTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/scala/src/test/scala/ch43_topology_sort/GraphTopologyTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/05_array/MyArray.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/06_linkedlist/SinglyLinkedList.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/07_linkedlist/LinkedListAlgo.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/08_stack/Browser.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/08_stack/BrowserDemo.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/08_stack/Stack.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/08_stack/StackBasedOnLinkedList.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/09_queue/ArrayQueue.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/09_queue/CircularQueue.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/09_queue/Queue.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/09_queue/QueueBasedOnLinkedList.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/11_sorts/Sorts.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/12_sorts/QuickSort.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/12_sorts/SortsTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/12_sorts/mergeSort.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/swift/14_sorts/CountingSort.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/06_linkedlist/LRUCache.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/06_linkedlist/LinkedList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/06_linkedlist/List.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/06_linkedlist/SingleLinkedList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/07_linkedlist/LinkedListAlog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/08_stack/StackAndBrowser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/09_queue/CircularQueue.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/09_queue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/09_queue/SimpleQueue.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/10_recursive/climbStairs.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-master/typescript/11_sorts/simpleSort.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/00e93901213fb80e1ee659173ad12f2eb938943e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/00e93901213fb80ea9b1ca7938d12f2eb9389438.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/023b5bb5c9ea15ce1e89f798b8003af33a87b23f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/024f78f0f736afc3679cc6f7bd19ebc4b645128b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/024f78f0f736afc3718ee8cfbd19ebc4b645129d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/024f78f0f736afc3d50e34f7bd19ebc4b7451225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/060828381f30e92460119c5442086e061d95f71a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/060828381f30e92460909ca142086e061d95f76e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0824ab18972bd407b902a19c75899e510eb3098d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/09fa513d269759ee54c4e96cbcfb43166c22df85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/09fa513d269759eecf7366f6bcfb43166d22dfe8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0b7b02087bf40ad100b9448a5b2c11dfa9ecce7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0bd162d9f2d3572ce89589708413632762d0c323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0d338744ebf81a4c4841fc79d92a6059252da60a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0df3d7ca7bcb0a46092c85f26663f6246a60afeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0df3d7ca7bcb0a46a3315a816563f6246b60af73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0df431adcbef760964cf941223dda3cc7dd99e72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0e2442a7d933c8950ac4ac32df1373f0830200c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0eb30f2442a7d9336cb8e6e0a34bd11373f00114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0eb30f2442a7d933cf66053fa34bd11372f001ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0ff41bd5ad6eddc49cf57c8234dbb6fd526633bd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/0ff41bd5ad6eddc4f5fba4d037dbb6fd526633f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/10dfa9ec8a1363278fe2c6a19c8fa0ec08fac711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/10dfa9ec8a136327f41e7f289c8fa0ec08fac73e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/11385343fbf2b211f9c05cfec48065380dd78e90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/14ce36d3d539b600115b1810e750352ac75cb7fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/18d8bc3eb13533fa4c1175bfa6d3fd1f40345bf8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/203fb80e7bec54e74cdfd7bcb7389b504fc26a65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/203fb80e7bec54e7ca7859b1b7389b504ec26a8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/21a4462309f79052a75d828902f3d7ca7acbd5c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/21a4462309f79052c682a3af02f3d7ca7acbd586.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/21a4462309f79052ffcfba9a02f3d7ca7acbd546.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/267f9e2f07082838032c06bdb699a9014c08f172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/267f9e2f0708283838150dbab699a9014c08f100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/267f9e2f07082838fe8bc385b699a9014d08f199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/29381f30e924b89939d2321760061d950a7bf637.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/29381f30e924b899a1184a9660061d950a7bf673.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/29381f30e924b899aa9d479d60061d950b7bf6f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/29381f30e924b899bf93b49a60061d950b7bf6e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/29381f30e924b899edd7869360061d950b7bf6b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/2cf5e0fe9925bc313fcb1f3e52df8db1ca137085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/2cf5e0fe9925bc31e25efab050df8db1cb137093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/2cf5e0fe9925bc31eaf9e20a50df8db1ca1370f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/30adcbef76094b3656f04343adcc7cd98d109d3a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/30adcbef76094b368aaa6f46adcc7cd98d109d64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/314e251f95cad1c873ab1e89713e6709c93d5108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/32fa828ba61ea8d3102af9dc9a0a304e241f58da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/342ac65c10385343647707609d13b07eca808833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/342ac65c103853437978609e9d13b07ecb8088de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/34fae6cd7b899e5150c676254fa7d933c8950db2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/359b033b5bb5c9ea680cfa71db39b6003bf3b3a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/359b033b5bb5c9ea7caad68bdb39b6003af3b379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/35a85edf8db1cb131a803719d354564e93584bca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/377adab44aed2e73a75765bd8901a18b86d6fae1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/377adab44aed2e73bf5b7dbd8901a18b86d6faf5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/37d12f2eb9389b501df6f1e48b35e5dde7116e7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/37d12f2eb9389b5062409c2f8b35e5dde7116e0b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3801213fb80e7bec7fd37e72232eb9389b506b13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3801213fb80e7becc629e94b212eb9389a506bad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/38dbb6fd5266d01635c93878992bd40734fa3589.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/38dbb6fd5266d016427f2ec39a2bd40734fa35f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/38dbb6fd5266d016dbff5693992bd40734fa35a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3ac79f3df8dcd100034d31b07c8b4710b8122f4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3ac79f3df8dcd100bd0e636e7c8b4710b8122fea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3b292df5e0fe9925405bd3f83aa85edf8cb171c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3b292df5e0fe99256e1ce5ed3aa85edf8db1717f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3bf33a87e950352a34a74f475d43fbf2b3118bbf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3bf33a87e950352a3f1a48ab5d43fbf2b2118b1e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/3c6d55fbb2fb431673db44d42ea4462308f7d353.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/42166d224f4a20a4476f22b29e529822720ed055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/42166d224f4a20a4e3ec8e6b9e529822730ed0a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/42a98226cffc1e173d4285a24490f603728de9a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/42a98226cffc1e1758c798814490f603738de902.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/42a98226cffc1e17b187011b4490f603738de9e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/43a7d933c895d143c910a8b27df082025aaf0738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/43a7d933c895d143c9eea8b37df082025baf0781.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/43a7d933c895d143d8a2bb557ff082025baf07eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4610b912c8fcc3ce7178f0589e45d688d43f2024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4610b912c8fcc3cea725a49e9c45d688d53f20b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/472309f79052982273653c51daca7bcb0b46d4c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/472309f7905298229fcd4f64d9ca7bcb0b46d49f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4afbfbedab64034f8c48038aa2c379310b551db1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4afbfbedab64034fba96d295a1c379310b551dcd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4afbfbedab64034fd37cc9afa3c379310b551de1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4bed2e738bd4b31c431de5f98dd6277f9e2ff84b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4ec2d5628535e5dd57ba5a7478c6a7efcf1b6283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4ec2d5628535e5dd9b7a6e6478c6a7efce1b6233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/4ec2d5628535e5ddebfbfe4f78c6a7efcf1b624e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/500fd9f9d72a605951541a8b2634349b023bbadf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/500fd9f9d72a6059d70485c32534349b023bbad7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/503d269759ee3d6d0422675a4d166d224e4adebf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/50da81cb39dbb6fd778278b40724ab18962b3742.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/50da81cb39dbb6fdf261fdb60724ab18972b3763.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5243fbf2b2119313f92bc4116b380cd791238d22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5366d0160924ab18ff02bec938fae6cd7b890b33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/54fbb2fb43166d2225d2e038482309f79152d2f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/54fbb2fb43166d225fc43b694b2309f79152d29f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/55e736d12f2eb93824a3f95edb628535e4dd6f54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/55e736d12f2eb93862263359db628535e4dd6fd6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/55e736d12f2eb9388db0105edb628535e4dd6fb8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/55e736d12f2eb938a1547351d8628535e5dd6f53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/562c11dfa9ec8a1372de694ef903918fa1ecc053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/562c11dfa9ec8a13d69f054ef903918fa1ecc093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/574e9258d109b3de4fdf1417c2bf6c81800a4c69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5882b2b7d0a20cf4f92a504f78094b36adaf99ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/58ee3d6d55fbb2fb196fa383414a20a44723dcdf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/58ee3d6d55fbb2fb6d5d9782414a20a44623dc28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5bafa40f4bfbfbed06eb398274f0f736aec31f98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5bafa40f4bfbfbed0f3742d876f0f736afc31f2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5bafa40f4bfbfbed8ba0c60076f0f736aec31fd7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5d6034a85edf8db199c7776e0723dd54574e74ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5d6034a85edf8db1d0df3c330723dd54574e74f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5fdf8db1cb134954b7db0bd75a4e9258d0094ab8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/5fdf8db1cb134954e5747bc5584e9258d1094a2d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/622762d0f703918f015177b65f3d269758eec4ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/622762d0f703918f3a128e595f3d269758eec466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/63d0f703918fa0ec0f744af02b9759ee3c6ddb9f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/63d0f703918fa0ec36e7b29f289759ee3d6ddb04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/63d9f2d3572c11dfc85633816d2762d0f603c289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/63d9f2d3572c11dffc174f8e6d2762d0f603c25d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6a600c338744ebf8177f60add4f9d72a6059a711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6c224f4a20a44623474f4f0a9622720e0df3d7d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6c224f4a20a4462349ef7dd29622720e0cf3d75d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6c224f4a20a4462369c55df09622720e0cf3d711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6c224f4a20a446237fc929df9422720e0cf3d708.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6c224f4a20a44623c897fd0d9522720e0cf3d704.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6d81800a19d8bc3e25153e0a8e8ba61ea9d345d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6d81800a19d8bc3e5fc582638c8ba61ea9d3454e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6f061d950a7b020859c0f85e6cd9f2d3572cc800.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/6f061d950a7b0208b5f142b76ed9f2d3572cc8a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/71cf3bc79f3df8dc916fce35c311728b461028c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/71cf3bc79f3df8dcb6a9f517c111728b4610289b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/71cf3bc79f3df8dcd7af14dec311728b461028ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/730e0cf3d7ca7bcb573225beb0096b63f724a8d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/730e0cf3d7ca7bcb65ef3750b0096b63f624a83d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/730e0cf3d7ca7bcbfb6cb185b0096b63f624a801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/738b4710b912c8fc5262e95cf2039245d7882189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/738b4710b912c8fccb317796f1039245d78821ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/77094b36acaf2edd66d1da73811001e93901930c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/77094b36acaf2eddc423786f811001e938019361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/77c6a7efce1b9d168fe9a1d4fddeb48f8c54645c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/78310a55b319ebc417640d3e8c26cffc1e17167c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/78310a55b319ebc432a828108e26cffc1f171662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/78310a55b319ebc436bc2d1d8f26cffc1f171669.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/78310a55b319ebc4adb697d58c26cffc1f1716ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/78310a55b319ebc4cf1a35978c26cffc1e171659.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/79f0f736afc37931196b6b8be5c4b74543a91114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/79f0f736afc37931e6eab24fe7c4b74542a911d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/79f0f736afc37931fc8c4690e5c4b74542a911a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7a899e510fb30f2456031cafc695d143ac4b0384.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7acb0a46f21fbe09e0505b7166600c338744ad4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7aec54e736d12f2e67df0df241c2d5628435684e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7aec54e736d12f2eb00ef0ce41c2d56285356810.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7af40ad162d9f2d32259b243a7ec8a136227ccd6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7c1ed21b0ef41bd530aff75c5fda81cb38db3d9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7dd98d1001e939019ccf099775ec54e737d1964e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7e3e6709c93d70cf924a97a3f6dcd100bba12bef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/7e3e6709c93d70cfe13648a2f6dcd100bba12b55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/810a19d8bc3eb13569ffcaedaa1ea8d3fd1f44af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/810a19d8bc3eb135bda0901fa81ea8d3fd1f442a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/83025aafa40f4bfb65e8e3020f4f78f0f73618af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8435e5dde71190ef090a5a70c01b9d16fcfa60a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8435e5dde71190ef8b32d867c01b9d16fcfa60b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8601a18b87d6277f19b6869026381f30e824fcf6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8601a18b87d6277f2dbc529626381f30e824fcf6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8644ebf81a4c510f9b232aa16e59252dd52aa5a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8644ebf81a4c510fa2e413886e59252dd42aa504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/86d6277f9e2f07086c2ed9ade724b899a901f270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/86d6277f9e2f0708943e51a7e724b899a901f25a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8718367adab44aed54610c77bd1c8701a18bfb72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8718367adab44aedfa9da649bd1c8701a08bfb48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8ad4b31c8701a18b79082fe1902f07082938feb9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8b13632762d0f70327a7cbaa04fa513d2697c5ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8b13632762d0f70360798e9c06fa513d2797c5a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8b13632762d0f70363578d7d06fa513d2797c5ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8b82b9014a90f603744f59d53712b31bb151eda1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8c1001e93901213f28c0a4765ae736d12e2e95ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8cb1cb13495409232c3bf4209c58d109b3de491a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8cb1cb134954092386b16c839e58d109b2de4976.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8d5494eef01f3a29b1db0e819525bc315c607c6a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/8d5494eef01f3a29c6b17d5c9725bc315c607c23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/902397dda144ad3489bf22f5dda20cf431ad8544.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/91ef76c6a7efce1b4e2550afa251f3deb48f654d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/91ef76c6a7efce1b64a275a5a351f3deb58f65d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/91ef76c6a7efce1b8bfa9643a351f3deb58f6561.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9213b07eca8065382026be469adda144ac348292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9213b07eca806538483b89a99bdda144ac3482b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/95eef01f3a292df50cba0487b2315c6034a87323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/95eef01f3a292df50e4d02beb2315c6035a8738b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/95eef01f3a292df517aa0bbdb2315c6034a87329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/95eef01f3a292df5931281afb0315c6035a873b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/960a304e251f95ca24801210c7177f3e6709521b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/962bd40735fae6cdeb5edb0601b30f2443a70fea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/96dda144ad3459821b64672e02f431adcaef84a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9825bc315c6034a84e3df3aec5134954082376c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9c16fdfaaf51f3de4eea05d19aeef01f3a29792f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9c16fdfaaf51f3deba43f9339aeef01f3b2979f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9d82d158ccbf6c81205ee553b23eb13533fa4024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9d82d158ccbf6c812bbde849b23eb13532fa408d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9e3df8dcd100baa1753972464b10b912c8fc2e31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9e3df8dcd100baa177078ebc4910b912c8fc2e8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9e3df8dcd100baa1ed4ce5db4a10b912c8fc2e69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/9f510fb30f2442a722621702df43ad4bd113022d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a044ad345982b2b783f702653fadcbef76099b22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a044ad345982b2b7946412bc3cadcbef77099bca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a044ad345982b2b7a36be2743fadcbef77099b8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a08b87d6277f9e2f521a9d531230e924b899f3ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a08b87d6277f9e2f8f91a9a01130e924b999f3f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a08b87d6277f9e2ff7cf32f51230e924b999f351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a1ec08fa513d269704f4f4bf59fbb2fb4316d829.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a1ec08fa513d2697aed510fc5bfbb2fb4316d809.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a1ec08fa513d2697c6c1bb1358fbb2fb4316d86a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a1ec08fa513d2697d020a6f65bfbb2fb4216d8ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a2cc7cd98d1001e93c7549a6b60e7bec55e797c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a50f4bfbfbedab64d4026999fb36afc379311e72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a5c27d1ed21b0ef4598928b5d0c451da80cb3ef3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a686c9177f3e67090e7e984835c79f3df8dc550f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a686c9177f3e67092313b56d35c79f3df8dc5515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a686c9177f3e67092ffcb95035c79f3df9dc55a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a6efce1b9d16fdfa5b1c7e7cba8f8c5494ee7b34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a71ea8d3fd1f4134651484c62b1f95cad1c85e63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a8014c086e061d953cf4de9675f40ad163d9caea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a8014c086e061d954e10cc1075f40ad162d9ca40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a8773912b31bb0514bf3cdaf3a7adab44bede066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a8773912b31bb0518dd60184387adab44bede0a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a8ec8a13632762d0f9c185c0aaec08fa503dc6d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a9d3fd1f4134970a445916629bcad1c8a7865d50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a9d3fd1f4134970abdf53b669fcad1c8a6865df0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a9d3fd1f4134970ac35091979bcad1c8a7865d63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/a9d3fd1f4134970aedb5ef8b9bcad1c8a6865d54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa18972bd40735fa354a7af090510fb30e2408c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa18972bd40735fa759e3a1e90510fb30f24082e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa18972bd40735fa7fce401490510fb30f240864.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa18972bd40735fa80e10bfd92510fb30f240864.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa18972bd40735faea23b31290510fb30e24084d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa18972bd40735fafb3dcc9390510fb30e2408ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa64034f78f0f736891cba930455b319eac41345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa64034f78f0f7369f79c0a30455b319eac41388.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aa64034f78f0f736deb600300755b319ebc413b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/ac4bd11373f082021cd53faf45fbfbedaa641bde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/ac4bd11373f08202f8899b9745fbfbedab641b7a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/ac6eddc451da81cb58aedc7b5c66d0160924313f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/ac6eddc451da81cbb1c1f5675c66d01609243170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/ac6eddc451da81cbd21f56625c66d016082431a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/adaf2edda3cc7cd95c6c9b493701213fb90e91d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/adaf2edda3cc7cd9b49733e43701213fb80e9150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/adaf2edda3cc7cd9d3080c4a3701213fb80e917f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/aec379310a55b3192d6f90d24da98226cefc1786.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b03533fa828ba61e826d84bf4f34970a314e599a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b03533fa828ba61ec35cc7d24d34970a314e5998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b03533fa828ba61ed7e3d9824f34970a304e5909.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b219ebc4b74543a90675a36b10178a82b901142e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b219ebc4b74543a929f18aab10178a82b80114ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b21bb051f819861855e2411444ed2e738ad4e6fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b21bb051f81986186fab7f2544ed2e738ad4e6a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b21c8701a18b87d67c4c337a0a0828381f30fd4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b2de9c82d158ccbf0c85bc9914d8bc3eb1354153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b2de9c82d158ccbf5e6cebb315d8bc3eb0354162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b2de9c82d158ccbf88b438e214d8bc3eb03541da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b3119313b07eca806e88433e9c2397dda044835d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b3b7d0a20cf431ad7d91d89e4536acaf2fdd98d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b3fb43166d224f4a846ace0804f790529822d13e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b58f8c5494eef01f03936366eefe9925bd317d89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b58f8c5494eef01fb17dd17eeefe9925bc317d24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b58f8c5494eef01fc48da4b9eefe9925bc317d35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b64543a98226cffc67d2f118b5014a90f703eaa4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b64543a98226cffc8752d31fb7014a90f603ea27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b7003af33a87e950606e3d7a1e385343fbf2b4af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b7fd5266d0160924752b65a4da0735fae6cd3407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b7fd5266d0160924bb005719da0735fae6cd348e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b7fd5266d0160924e7aa12f0d90735fae7cd3449.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b8014a90f603738d6db30d47bd1bb051f919ecde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b8014a90f603738da141c98bbd1bb051f819ec14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b8014a90f603738daaadcc9bbd1bb051f919eca0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b8014a90f603738dd1c9b9b3bd1bb051f919eca4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b812c8fcc3cec3fdac36ffdbd888d43f87942717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b812c8fcc3cec3fdae31f9c9d888d43f8794277a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b8389b504fc2d56285bf9cdcea1190ef76c66c4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/b90e7bec54e736d14c09a9a995504fc2d562697c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/bba1cd11728b4710aa3f6fddcecec3fdfc03238a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/bd315c6034a85edf5175786247540923dc5475f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/bd315c6034a85edf8dda448b47540923dc5475c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/bd315c6034a85edfdc65f52947540923dc5475ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/bd3eb13533fa828b098f5c6ff01f4134960a5a8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/bd3eb13533fa828b245588bdf31f4134970a5a7d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/bd3eb13533fa828bd057844df31f4134970a5a23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/c75c10385343fbf25394e786be7eca8064388fdf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/c75c10385343fbf2608d1667bc7eca8064388fd5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/c75c10385343fbf2dcd67484be7eca8064388f9b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/c83d70cf3bc79f3d1642149eb4a1cd11738b29f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/c83d70cf3bc79f3dfd737f7fb4a1cd11738b29ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/c995d143ad4bd11315abfba354afa40f4bfb0538.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/c9fcc3cec3fdfc0305eff11fda3f8794a5c22685.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/cc11728b4710b91213861cf6cdfdfc0392452277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/cdbf6c81800a19d853911e623dfa828ba71e46c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/cdbf6c81800a19d8e231f54739fa828ba61e4645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/cefc1e178a82b901a00bfd967d8da9773812eff5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/cefc1e178a82b901b1310c967d8da9773812effc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/cf1b9d16fdfaaf510abb3d0a825494eef01f7a2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/cf1b9d16fdfaaf5138a30303825494eef11f7ace.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d000baa1cd11728b8e1a568bc6fcc3cec3fd2c60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d000baa1cd11728bcd3a9799c6fcc3cec3fd2c71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d009b3de9c82d158e0951cf58c0a19d8bc3e425a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d043ad4bd11373f06df7ab20aa0f4bfbfaed0441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d1a20cf431adcbef9a343297a2af2edda3cc9f1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d50735fae6cd7b8957910236012442a7d8330e81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d52a2834349b033b5172f67c19ce36d3d439bd99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d52a2834349b033b7a06e17919ce36d3d439bd82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d52a2834349b033bd6f5739d1bce36d3d539bd7c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d53f8794a4c27d1e03d4fd8315d5ad6edcc43883.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d53f8794a4c27d1eaffa49a515d5ad6edcc438f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d53f8794a4c27d1efbd4956f15d5ad6edcc438ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d62a6059252dd42a57cef1060d3b5bb5c8eab85c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d6ca7bcb0a46f21f7766067ff8246b600c33ae48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d6ca7bcb0a46f21fd347a122fb246b600c33ae54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d833c895d143ad4b6c3d52708c025aafa40f066a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d833c895d143ad4b6c5652708c025aafa40f0601.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d833c895d143ad4bb4480a518c025aafa40f0638.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d8f9d72a6059252d037c44a33a9b033b5bb5b92a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/d8f9d72a6059252deeb421953a9b033b5ab5b9fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/dbb44aed2e738bd418dddf9caf8b87d6267ff99b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/dbb44aed2e738bd43985fea1af8b87d6267ff9fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/dbb44aed2e738bd47010c373ab8b87d6277ff9bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/dbb44aed2e738bd4b4637b36af8b87d6277ff973.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/dbb44aed2e738bd4fc0e326aac8b87d6277ff9ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/dc54564e9258d109b27e0a10df58ccbf6d814df6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/e1fe9925bc315c604ad24fb681b1cb1349547727.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/e4dde71190ef76c65986b1599316fdfaaf516768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/e4dde71190ef76c68114992e9316fdfaae5167f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/e61190ef76c6a7ef36871549f1faaf51f3de6638.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/e7cd7b899e510fb3d3adbfeed433c895d1430c17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/eac4b74543a98226f50ca90d8482b9014b90ebcf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/eaf81a4c510fd9f95090d9cb2b2dd42a2934a489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/eaf81a4c510fd9f9ae30a98b292dd42a2834a429.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/eaf81a4c510fd9f9d17e5bca282dd42a2834a423.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f11f3a292df5e0fe74612193526034a85edf7223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f11f3a292df5e0fed68b8754526034a85fdf72d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f11f3a292df5e0fee250acc2516034a85fdf72ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f11f3a292df5e0fee26bad58506034a85edf7273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f2deb48f8c5494ee0f3cbd8a23f5e0fe99257e03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f2deb48f8c5494ee91c81f8823f5e0fe98257ebc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f2deb48f8c5494eea1cd0f1123f5e0fe98257ece.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f31fbe096b63f6243080d2b18944ebf81b4ca3a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f31fbe096b63f6245b1605908944ebf81b4ca3dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f3d3572c11dfa9ec51db23866cd0f703908fc1ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f603918fa0ec08fa52f639eb57ee3d6d54fbda83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f603918fa0ec08fa9dc1700a57ee3d6d54fbda5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f703738da9773912a5e654c8f6198618377ae253.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f703738da9773912b18948c3f6198618377ae2e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f7246b600c3387441be356db5f0fd9f9d72aa077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f7246b600c3387444e3683195d0fd9f9d62aa0e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f9198618367adab458b0c00d85d4b31c8701e418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f9198618367adab4ca53aed285d4b31c8601e4a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f9dcd100baa1cd1138e52864b512c8fcc3ce2d26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f9dcd100baa1cd114244c08cb712c8fcc2ce2daf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f9dcd100baa1cd117438f62cb712c8fcc3ce2d2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/f9dcd100baa1cd11f5fe776bb712c8fcc3ce2d34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/faf2b2119313b07ed3a45aa002d7912397dd8c78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fc1f4134970a304ed1012142dfc8a786c9175c63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fcfaaf51f3deb48f5d90279ffe1f3a292cf578f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fcfaaf51f3deb48f77311d6bfe1f3a292df5782f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fcfaaf51f3deb48f98fde471fe1f3a292cf5788c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fcfaaf51f3deb48ff220924ffe1f3a292cf578d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fd039245d688d43f175095b9731ed21b0ff43bfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fd039245d688d43f38c9a649731ed21b0ef43b2c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/jpg/fd039245d688d43fbc202c9d711ed21b0ff43bd7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/1037456_29baa6aa015bfe6407454af38632d9d8_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/1120416_921850cd0db53e4db414f4e6fd111652_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/1202229_00ea5603be6a5147a291289adf73386a_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/1280274_da81aea6ba0fae51b18be73260e01d5e_2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/1333860_b8e978c7757d77b7b6caf4acb5498732_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/13567908_86494556549eb191a3eec360ebdb4c9e_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/1452530_df9fc224fb7c7532d81ed695951415a4_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/15345816_ab721d38a91f2adcbc933f5d3e8f75b8_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/18625676_dc6ec009f44da13058faba480486ad30_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/18840865_c19d2d4815ba0be76aac6452912d4c09_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/1914143_0b9b27146a8909841d14487fceeacee5_a13d3db397b6_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/2071115_f077110a3427c3667b791ae580310b14_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/2290230_c658c10087d0210cbf997e0008129e25_1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/2336316_892f1932d7dcf21e324ed33b5240cf71_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/2861272_d73fd9e06ff37658cd5592d97222ea15_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/30_acc07a515ba4ac73517720a1abf4ac0f_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/3499530_0db1a630fdb38d19d91dc3e9b8b08b03_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/3726900_631217793572445a504d7253c4376c0f_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/4367499_466642c359f60a9abd8fa68d942053f2_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/46342735_e7819891772f19272815ef0d22461c2b_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/4684234_d08d546dd98d2b7f205cf116f173d91c_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/5091133_9598587dddc09cd6ab171f18d4fc7846_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/50_8d961c07414f9416275766c022b9abbf.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/6631719_317306e32e8b4936c1630567f9819dcc_1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/7112984_002cec2ae477451a9299b554058f8bc6_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/7385851_55bb3c9e5f9615910b0d438ec54760ab_0.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/7_136cbbf1b5ab2117ae1d42a55e08edf1_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/86_3aa44600b3eef3f5b48cddb978b4fe03.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/892363_3ddeb46649c1b985d42e0446455e9856_3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapt/内涵段子/nhdz/mp4/9_4827bc6f72f1d2871cdb7cb0c0ada719_2.mp4" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,31 +745,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapt/wzry.py">
+        <entry file="file://$PROJECT_DIR$/python_algo/rnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapt/省市区三级地库/city_area.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#142#165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/python_algo/autoencoder.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_algo/mlp/train_mlp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1163">
+              <caret line="345" selection-start-line="345" selection-end-line="345" />
+              <folding>
+                <element signature="e#142#179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_algo/mlp/train.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_algo/mlp/test_classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_algo/mlp/evalution.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -93,32 +815,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python3_base/file_system.py" />
-        <option value="$PROJECT_DIR$/python3_base/rw_json.py" />
-        <option value="$PROJECT_DIR$/keras_tutorial.py" />
-        <option value="$PROJECT_DIR$/keras/keras_learning.py" />
-        <option value="$PROJECT_DIR$/keras/keras_set_ckpt.py" />
-        <option value="$PROJECT_DIR$/keras/keras_load_ckpt.py" />
-        <option value="$PROJECT_DIR$/python3_base/read_docx/read_docx.py" />
-        <option value="$PROJECT_DIR$/pandas_learning/pandas_show.py" />
-        <option value="$PROJECT_DIR$/webserver.py" />
-        <option value="$PROJECT_DIR$/webserver/server.py" />
-        <option value="$PROJECT_DIR$/webserver/thread_server.py" />
-        <option value="$PROJECT_DIR$/python3_base/python_gener.py" />
-        <option value="$PROJECT_DIR$/pandas_learning/pandas_base.py" />
-        <option value="$PROJECT_DIR$/pandas_learning/pandas_test.py" />
-        <option value="$PROJECT_DIR$/itchat_img/wx_chat.py" />
-        <option value="$PROJECT_DIR$/webserver/test_http.py" />
-        <option value="$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/pyecharts/charts/basic_charts/bar.py" />
-        <option value="$PROJECT_DIR$/python_theano/threano_learn.py" />
-        <option value="$PROJECT_DIR$/BIG_DATA/data_show.py" />
-        <option value="$PROJECT_DIR$/ftp/ftp_class.py" />
-        <option value="$PROJECT_DIR$/ftp/ftp.py" />
-        <option value="$PROJECT_DIR$/mysql_tutorials/mysql_class.py" />
-        <option value="$PROJECT_DIR$/python_re/re_class.py" />
-        <option value="$PROJECT_DIR$/python_re/str_.py" />
-        <option value="$PROJECT_DIR$/python_io/python_io.py" />
-        <option value="$PROJECT_DIR$/python_io/more_io.py" />
         <option value="$PROJECT_DIR$/python_io/io_class_case.py" />
         <option value="$PROJECT_DIR$/python_net/requests_learn.py" />
         <option value="$PROJECT_DIR$/python_net/taojiezi.py" />
@@ -144,11 +840,37 @@
         <option value="$PROJECT_DIR$/scrapt/内涵段子/nhdz.py" />
         <option value="$PROJECT_DIR$/scrapt/12306抢票/qp.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/BIG_DATA/PCA.py" />
+        <option value="$PROJECT_DIR$/python_numpy/numpy1.py" />
+        <option value="$PROJECT_DIR$/python_net/send_email.py" />
+        <option value="$PROJECT_DIR$/python_net/send_email2.py" />
+        <option value="$PROJECT_DIR$/send_message/send_message.py" />
+        <option value="$PROJECT_DIR$/algo-master/greedy_algorithm.py" />
+        <option value="$PROJECT_DIR$/python_algo/pca.py" />
+        <option value="$PROJECT_DIR$/python_algo/clustering_kmeans.py" />
+        <option value="$PROJECT_DIR$/python_algo/linear_svm.py" />
+        <option value="$PROJECT_DIR$/python_algo/logistic_ex1.py" />
+        <option value="$PROJECT_DIR$/python_algo/Decision_tree.py" />
+        <option value="$PROJECT_DIR$/python_algo/KNN.py" />
+        <option value="$PROJECT_DIR$/python_algo/overfitting.py" />
+        <option value="$PROJECT_DIR$/python_algo/reguarization_linear.py" />
+        <option value="$PROJECT_DIR$/python_algo/regularization_lasso.py" />
+        <option value="$PROJECT_DIR$/python_algo/reguarization_ploynomial.py" />
+        <option value="$PROJECT_DIR$/python_algo/reguarization_quadratic.py" />
+        <option value="$PROJECT_DIR$/python_algo/reguarization_ridge.py" />
+        <option value="$PROJECT_DIR$/python_algo/linear_regression.py" />
+        <option value="$PROJECT_DIR$/python_algo/rnn.py" />
+        <option value="$PROJECT_DIR$/python_algo/mlp.py" />
+        <option value="$PROJECT_DIR$/python_algo/mlp/train_mlp.py" />
+        <option value="$PROJECT_DIR$/python_algo/mlp/train.sh" />
+        <option value="$PROJECT_DIR$/python_algo/mlp/test_classifier.py" />
+        <option value="$PROJECT_DIR$/python_algo/mlp/evalution.sh" />
+        <option value="$PROJECT_DIR$/python_algo/autoencoder.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="354" />
+    <option name="x" value="576" />
     <option name="y" value="23" />
     <option name="width" value="1138" />
     <option name="height" value="1027" />
@@ -161,6 +883,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,18 +891,27 @@
               <item name="python3_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3_tutorials" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python3_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="python_algo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python3_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="python_mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -201,8 +933,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nhdz">
-    <configuration name="city2mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.autoencoder">
+    <configuration name="train.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="python3_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algo/mlp" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algo/mlp/train.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="autoencoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +953,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/省市区三级地库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/省市区三级地库/city2mysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algo/autoencoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +966,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="city_area" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +974,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/省市区三级地库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/省市区三级地库/city_area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algo/linear_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +987,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="city_full" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reguarization_ridge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +995,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/省市区乡村五级地库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/省市区乡村五级地库/city_full.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algo/reguarization_ridge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +1008,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nhdz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,32 +1016,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt/内涵段子" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/内涵段子/nhdz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wzry" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_tutorials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapt/wzry.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algo/rnn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,11 +1031,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nhdz" />
-        <item itemvalue="Python.city_full" />
-        <item itemvalue="Python.city2mysql" />
-        <item itemvalue="Python.city_area" />
-        <item itemvalue="Python.wzry" />
+        <item itemvalue="Python.autoencoder" />
+        <item itemvalue="Python.rnn" />
+        <item itemvalue="Bash.train.sh" />
+        <item itemvalue="Python.linear_regression" />
+        <item itemvalue="Python.reguarization_ridge" />
       </list>
     </recent_temporary>
   </component>
@@ -332,16 +1054,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="354" y="23" width="1138" height="1027" extended-state="0" />
+    <frame x="576" y="23" width="1138" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19835466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2367459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26754385" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -359,235 +1081,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python3_base/read_docx/read_docx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="133" column="24" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
-          <folding>
-            <element signature="e#163#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webserver/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webserver/thread_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webserver/test_http.py" />
-    <entry file="file://$PROJECT_DIR$/itchat_img/wx_chat.py" />
-    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="e#164#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/pyecharts/charts/basic_charts/bar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_learning/pandas_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#173#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ftp/ftp_class.py" />
-    <entry file="file://$PROJECT_DIR$/python3_base/python_gener.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIG_DATA/data_show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="e#41#158#1" />
-            <element signature="e#160#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_ftp/ftp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#23#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_theano/threano_learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#175#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_tutorials/mysql_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_re/re_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-835">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_re/str_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#160#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_io/python_io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#149#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-    <entry file="file://$PROJECT_DIR$/python_io/more_io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-          <folding>
-            <element signature="e#161#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_io/io_class_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_net/requests_learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_net/taojiezi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#149#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_flask/flask_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/edward/util/random_variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_algo/PCA.py" />
-    <entry file="file://$PROJECT_DIR$/python_algo/Bayesian_Neural_Network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_algo/maximum_likelihood.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
-          <folding>
-            <element signature="e#149#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_text/textgener.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chmod.py" />
-    <entry file="file://$PROJECT_DIR$/python_download/download_folder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-          <folding>
-            <element signature="e#311#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_mysql/ssh_connect_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#289#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_opencv/copy_of_opencv_image_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -663,13 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapt/wzry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapt/内涵段子/nhdz.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -708,6 +1194,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapt/wzry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapt/省市区三级地库/city_area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -717,13 +1210,283 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="SECOND">
           <first_editor relative-caret-position="135">
             <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIG_DATA/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_numpy/numpy1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_net/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="e#162#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_net/send_email2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="e#142#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_message/send_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="e#142#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo-master/greedy_algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="2400" selection-start-line="2400" selection-end-line="2400" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <folding>
+            <element signature="e#142#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/clustering_kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" lean-forward="true" selection-end-line="58" />
+          <folding>
+            <element signature="e#142#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/Bayesian_Neural_Network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="11" column="32" lean-forward="true" selection-end-line="60" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/data_show.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/maximum_likelihood.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="73" column="48" selection-end-line="86" selection-end-column="10" />
+          <folding>
+            <element signature="e#149#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_mysql/ssh_connect_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/linear_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="52" column="43" lean-forward="true" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+          <folding>
+            <element signature="e#185#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/logistic_ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="43" column="56" lean-forward="true" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+          <folding>
+            <element signature="e#142#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="1288" selection-start-line="1288" selection-end-line="1288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/wechat/lib/python3.5/site-packages/graphviz/backend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/Decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#142#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/KNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/overfitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/regularization_lasso.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#142#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/reguarization_ploynomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#142#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/reguarization_linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#142#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/reguarization_quadratic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <folding>
+            <element signature="e#142#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/reguarization_ridge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="e#142#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="e#158#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/mlp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/mlp/train_mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1163">
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
+          <folding>
+            <element signature="e#142#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/mlp/train.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/mlp/test_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/mlp/evalution.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#142#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_algo/autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
